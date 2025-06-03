@@ -1,4 +1,4 @@
-# TODO
+# TODO:
 
 - [ ] Fluxograma do projeto  
 - [ ] Implementar código base  
@@ -6,7 +6,7 @@
 - [ ] Implementar sensor de umidade no ar  
 - [ ] Implementar sensor de umidade no solo  
 
-# DONE
+# DONE:
 
 - [x] Definir escopo
 
